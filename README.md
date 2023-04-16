@@ -1,4 +1,4 @@
-# BFK Interpreter
+# Bfk Interpreter
 A brainfuck interpreter written in x64 NASM assembly for Linux.
 
 ## Build
